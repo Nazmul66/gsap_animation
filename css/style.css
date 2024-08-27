@@ -1,0 +1,12 @@
+#box{
+    background-color: blueviolet;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #000;
+}
+#box2{
+    background-color: chartreuse;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #000;
+}
